@@ -1,3 +1,8 @@
+# Deprecated - Not Maintained
+### Use I4-DLU (IPv4 DNS Lookup Utility): Link will be available soon
+
+
+
 The ipv4LKUP batch script is a simple tool that allows users to input a URL and obtain its corresponding IPv4 address. The script utilizes PowerShell commands within a batch script to perform DNS resolution and fetch the IPv4 address associated with the provided URL.
 
 **Usage:**
