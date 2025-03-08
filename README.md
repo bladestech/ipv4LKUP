@@ -1,5 +1,5 @@
 # Deprecated - Not Maintained
-### Use I4-DLU (IPv4 DNS Lookup Utility): Link will be available soon
+### Use I4-DLU (IPv4 DNS Lookup Utility): https://github.com/bladestech/I4-DLU
 
 
 
